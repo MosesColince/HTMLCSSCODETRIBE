@@ -1,0 +1,23 @@
+.qrcode {
+    padding: 20px;
+    background-color: beige;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin: auto;
+  }
+  .qrcode p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: black;
+  }
+  .qrcode img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  .qrcode b {
+    display: block;
+    margin: 10px 0;
+    color: black;
+  }
